@@ -42,23 +42,24 @@ The follwing designs and UI components show funcationality and integrations of t
 
 ![div20](https://user-images.githubusercontent.com/93653525/185125655-9c530353-4466-4c02-bfc0-712e7e5e962a.png)
 
-- API specifications of the core functionality
 
 - An overview of the technology stack to be used
-MemeFlate is a multi layered project and pulls from many open source libabries to build its tokens utilities Dapps,
-react/react.js is used to tie together our solidity smartcontracts along with Chainlink Vrf v2 and keepers protocol integrated in to Gaming and NFT-staking, NFTs also have XP.network cross chain bridge techonolgy allowing users to tranfer NFTs to and from multiple networks inlcuding VeChain currently.
+
+MemeFlate is a multi layered project and pulls from many open source libabries to build its tokens utilities and Dapps,
+react/react.js is used to tie together our solidity smartcontracts along with Chainlink Vrf v2 and keepers protocol integrated in to Gaming and NFT-staking, NFTs have also been integrated with XP.network cross chain bridge techonolgy, allowing users to tranfer the projects NFT collection to and from multiple chains/networks inlcuding VeChain.
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
-100% of the projects current arhitetcure is already established and uses protocols provided by solidity any relevent documentaion can be sourced from memeflate.io .
+Most of the projects arhitetcure is already established and uses protocols provided by solidity. Any relevent documentaion can be sourced from memeflate.io .
 
 
 
 ### Ecosystem Fit
 Are there any other projects similar to yours? If so, how is your project different?
 
-There are simlier crypto based project to MemeFlates freelance usecase but they are few and far bewteen, the more traditioal platforms that provide the same service are all world leading and thus seen as an aspiration for the project.
-MemeFlate strives to be different in many ways, ranging from but not limited to the following:
+There are simlier crypto based project to MemeFlates freelance  marketplace usecase but they are few and far bewteen, the more traditioal platforms that provide some the same services are all world leading and thus seen as an aspiration for the project.
+
+MemeFlate strives to be different in many ways ranging from but not limited to the following:
 
 Facebook type community centre allowing users to build profiles, add friends, send gifs, videos, photos and post updates, this allows buyers,sellers and users to interact with each other whilst building a level of trust and community among the site, visters and users.
 
@@ -93,8 +94,8 @@ The MemeFlate team currently comprises of the CEO/Team leader and 1 solidity/rea
 Roche dixon has over 6 years experince in managing his own catering company and with in running his own busnniess has gain a plethora of skills and knowledge to aid the project in it development from App and Web Design to Graphic Design, Customer Services, People Management, Marketing, Booking keeping, and Networking. He has also contributed the most to the project in terms of self financing, projects ecosystem structure and over all direction.
 
 Mark the Dev
-Started working as the Project First and only solidity Smart contract builder and has experiance in TypeScript and react.js/next.js/node.js and truffle
-and has built and is working on the projects tokens, web3 Dapps and games.
+Started working as the Project First and only solidity smart contract builder and has over 2 years experiance in TypeScript/react.js/next.js/node.js and truffle
+and has building a long lits of projects tokens, web3 Dapps and games.
 
 ## Tokens
 
