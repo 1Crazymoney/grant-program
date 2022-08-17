@@ -25,23 +25,22 @@ Therefore, we ask the teams to submit (where relevant):
 
 The follwing designs and UI components show funcationality and integrations of the Marketplace freelance usecase.
 
-(user profile)
+## (User profile)
 ![div17](https://user-images.githubusercontent.com/93653525/185122455-40d67bc9-0c6c-4445-8ab4-d34d8a80e493.png)
 
-(2 step verification Crypto wallet)
+## (2 step verification Crypto wallet on line wallet)
 ![div10](https://user-images.githubusercontent.com/93653525/185115059-1616056e-bb87-4c95-a8ba-07b84f1a4efd.png)
 
-(seller profile)
+## (Sellers profile)
 ![div9](https://user-images.githubusercontent.com/93653525/185122219-5bcb68ec-a0e2-4243-bf0e-5ffd518dcb1a.png)
 
-(buyer contacing seller)
+## (Buyer contacing seller)
 ![div18](https://user-images.githubusercontent.com/93653525/185121737-32ce983a-6f96-4f07-bb5d-08b83f977333.png)
 
-( buyer placing and paying for a service) 
+## (Buyer placing order and paying for service) 
 ![div19](https://user-images.githubusercontent.com/93653525/185125553-c7150110-52c7-45a8-b767-07841259a7f9.png)
 
 ![div20](https://user-images.githubusercontent.com/93653525/185125655-9c530353-4466-4c02-bfc0-712e7e5e962a.png)
-![image](https://user-images.githubusercontent.com/93653525/185126615-abaa14d6-7c68-49ff-8992-971565095976.png)
 
 - API specifications of the core functionality
 
@@ -97,13 +96,13 @@ Mark the Dev
 Started working as the Project First and only solidity Smart contract builder and has experiance in TypeScript and react.js/next.js/node.js and truffle
 and has built and is working on the projects tokens, web3 Dapps and games.
 
--Tokens
+## Tokens
 
 $MFlateable $MTF (second token)
 
 DirtLife_TM (NFT-Staking Reward)
 
--Dapps
+## Dapps
 
 stake.memeflate.io ($MFT Staking)
 
@@ -117,7 +116,7 @@ swap.memeflate.io (discontinued)
 
 NFT-Staking - Smart contract - Chainlink Keepers = ready - frontend = (Under development)
 
--Games
+## Games
 
 DirtLife Roulette (under development)
 
@@ -125,7 +124,7 @@ DirtLife Roulette (under development)
 ### Team Code Repos
 
 - https://github.com/MRMFLATE2.git
-- https://github.com/<mrmflate>
+- https://github.com/MRMFLATE
 
 ### Team LinkedIn Profiles
 
@@ -145,7 +144,7 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 - Please commit to providing dockerfiles for the delivery of your project.
 
 
-### Example Roadmap for a dApp Application
+### Roadmap for MemeFlates Smart Contract And Dapp Applications
 
 #### Overview
 Milestones | Estimated Duration | Full-time equivalent (FTE) | Cost
@@ -160,19 +159,26 @@ Milestone 4 |    30        |             2          |           $2,500
  
 
 
-#### Milestone 1 — All Smart Contract migration & Backend Testing
+#### Milestone 1 — Smart Contract(s) migration & Backend Testing
 
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0a.| License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
 | 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
+| 1 | Smart Contracts | We will migrate current smart contracts $MFLATE,$MFT and DirtLife_TM
+
+#### Milestone 2 - Front end Dapps and Testing
+
+ | Number | Deliverable | Specification |
+|-|-|-|
+| 1 | Frontend | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
+| 2 | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
 | 1 | Smart Contracts | We will migrate current smart contracts and upgrade where nesscearry to comply with VeChain blockchain that will have funtionalities such as 
-  Auto Staking/ Manuel Staking/ Vechain Rewards/De-Fi/NFT/NFT-Staking/GameFi/Social-Fi and in later develpoments look to develop a stable coin for freelancers to recieve as a payment method.|
+  Auto Staking/ Manuel Staking/ Vechain Rewards/De-Fi/NFT/NFT-Staking/GameFi/Social-Fi and in later develpoments look to develop a stable coin for freelancers to recieve as form of payment.|
 | 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
 
-#### Milestone 2  —  Frontend
-
+#### Milestone 3
 ...
 
 #### Community engagement/
