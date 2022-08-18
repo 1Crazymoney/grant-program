@@ -53,8 +53,19 @@ react/react.js is used to tie together our solidity smartcontracts along with Ch
 Most of the projects arhitetcure is already established and uses protocols provided by solidity. Any relevent documentaion can be sourced from memeflate.io .
 
 
-
 ### Ecosystem Fit
+
+## MemeFlate2.0 marketplace website satistics
+
+## (views around the world)
+![div21](https://user-images.githubusercontent.com/93653525/185458298-19c10071-6793-4ba1-a2ce-ad17cc5277a5.png)
+
+## (views from some countries around the world)
+![div22](https://user-images.githubusercontent.com/93653525/185458983-784fc3cf-246c-43dc-b33c-34a3a4a233e1.png)
+![div23](https://user-images.githubusercontent.com/93653525/185459504-604e83a5-e348-4df1-86d0-e8b189a7cbed.png)
+![div24](https://user-images.githubusercontent.com/93653525/185460063-3347b414-9fc6-4084-9910-92dbb65c9576.png)
+
+
 
 ## Are there any other projects similar to yours? If so, how is your project different?
 
@@ -129,6 +140,17 @@ NFT-Staking - Smart contract - Chainlink Keepers = ready - frontend = (Under dev
 DirtLife Roulette (under development)
 
 MemeFlate will release a minimum of 5 casino and 2D over a 1 year time span.
+
+## example Of Web3 Dapps currently built
+
+## ($MFT Staking)
+![staked](https://user-images.githubusercontent.com/93653525/185460703-2c601352-8795-452a-8f7e-9c03576aa2e1.png)
+
+## (NFT Minting)
+![div12](https://user-images.githubusercontent.com/93653525/185461066-b2bcca2f-337f-41cf-876e-e23ad0a1e283.png)
+
+## ($MFLATE Chainlink jackpot)
+![div11](https://user-images.githubusercontent.com/93653525/185460821-28cbcf4b-5e05-455f-ba30-821fbb361f8b.png)
 
 ### Team Code Repos
 
@@ -207,7 +229,11 @@ MemeFlate will use all social media and professional channels to publish article
 
 MemeFlate and its ecosystem would like to provide freelancers away to earn a little bit extra and a stable way of receiving cryptocurrncies, by eliement the need for the platform to charge any commission unlike its competitors and create the first 'Freelancer Stable Coin' back by multi currencies maintaining its face value (USD ect) the marketplace will stand out amongest the Freelance sector.
  MemeFlate aims to make this stable innovative by creating a swap feature that allows a buyer/user of the platform to trade in any crypto currency in return for the coin, this coin is then used to pay freelancers who can then decide to trade it in for many crypto/fiat currenccies or stake the coin to receive competitive APR%,
-(passive income), gifts and access stable coin related future products. With the expansion of the marketplace it would hope to secure substanuale partnerships with reputable orginastion to back the plaform giving freelance more ways to save/earn/ and use their stable coins.   
+(passive income), gifts and access stable coin related future products. With the expansion of the marketplace it would hope to secure substanuale partnerships with reputable orginastion to back the plaform giving freelance more ways to save/earn/ and use their stable coins. 
+
+## Example of a integrated swap feature built in to the site, this is how or stable coin will funcation)
+
+![div25](https://user-images.githubusercontent.com/93653525/185462199-5cce2b39-61af-4caa-abec-dc8f9c22e0fc.png)
 
 ## Additional Information 
 
