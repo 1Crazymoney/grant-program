@@ -72,7 +72,7 @@ As cryto is community driven MemeFlate is inclusive of those who wish to take pa
 
 MemeFlate was created by a creative mind and small busniess owner so this can be looked at as a cutting edge and willingness to see the project succeed.
 
-MemeFlate would like to be inovative by also offering local services in which where a seller of perticaler goods in different parts of the world can ship items wished to be purchased in another part of the world and with MemeFlate having its inception in the crypto space it makes its range and prediction for growth exponential.
+MemeFlate would like to be innovative by also offering local services in which where a seller of perticaler goods in different parts of the world can ship items wished to be purchased in another part of the world and with MemeFlate having its inception in the crypto space it makes its range and prediction for growth exponential.
 
  
 ## Team 
@@ -204,6 +204,10 @@ As part of the Program, we require that you produce and publish at least one art
 ## Future Plans
 
 Please include the team's long-term plans and intentions.
+
+MemeFlate and its ecosystem would like to provide freelancers away to earn a little bit extra and a stable way of receiving cryptocurrncies, by eliement the need for the platform to charge any commission unlike its competitors and create the first 'Freelancer Stable Coin' back by multi currencies maintaining its face value (USD ect) the marketplace will stand out amongest the Freelance sector.
+ MemeFlate aims to make this stable innovative by creating a swap feature that allows a buyer/user of the platform to trade in any crypto currency in return for the coin, this coin is then used to pay freelancers who can then decide to trade it in for many crypto/fiat currenccies or stake the coin to receive competitive APR%,
+(passive income), gifts and access stable coin related future products. With the expansion of the marketplace it would hope to secure substanuale partnerships with reputable orginastion to back the plaform giving freelance more ways to save/earn/ and use their stable coins.   
 
 ## Additional Information 
 
