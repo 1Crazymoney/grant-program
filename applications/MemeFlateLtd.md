@@ -12,15 +12,18 @@
 Please provide the following:
 
 - A brief description of the project.
+
 The part Decentralized MemeFlate2.0 platform is essentially a freelance marketplace for digital and local services. The marketplace acts as a medium, offering Freelancers, buyers and visitors a unique experience that is designed to gain more user interaction whilst browsing and open the world to mass adoption of payments made in cryptocurrencies with a diverse eco-system of token with relatable utilities for the everyday person.
 
 - An indication of why your team is interested in creating this project within the VeChain Ecosystem.
+
 The MemeFlate project, all though heavily deveploped on the BSC network lack the support from the network itself in assisting develop smaller projects such as MemeFlate. By building and completeing the project on the VeChain network MemeFlate would gain, support, much needed resources and a chance to network with relevent projects and platorms.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about the project's expected final state.
 Therefore, we ask the teams to submit (where relevant):
+
 - Mockups/designs of any UI components
 
 The follwing designs and UI components show funcationality and integrations of the Marketplace freelance usecase.
@@ -91,19 +94,24 @@ Please describe the team's relevant experience. If the project involves developm
 
 The MemeFlate team currently comprises of the CEO/Team leader and 1 solidity/react developer
 
-Roche dixon has over 6 years experince in managing his own catering company and with in running his own busnniess has gain a plethora of skills and knowledge to aid the project in it development from App and Web Design to Graphic Design, Customer Services, People Management, Marketing, Booking keeping, and Networking. He has also contributed the most to the project in terms of self financing, projects ecosystem structure and over all direction.
+Roche dixon (CEO)
+
+has over 6 years experince in managing his own catering company and with in running his own busnniess has gain a plethora of skills and knowledge to aid the project in it development from App and Web Design to Graphic Design, Customer Services, People Management, Marketing, Booking keeping, and Networking. He has also contributed the most to the project in terms of financing, projects ecosystem structure and over all look and direction.
 
 Mark the Dev
+
 Started working as the Project First and only solidity smart contract builder and has over 2 years experiance in TypeScript/react.js/next.js/node.js and truffle
 and has building a long lits of projects tokens, web3 Dapps and games.
 
-## Tokens
+##  BSC Tokens
 
-MemeFlate $MFLATE (Native Token) - DeFi- Holder Tax voting - 7,200 holders
+MemeFlate $MFLATE (Native Token) - DeFi - Holder Tax voting - 7,200 holders
 
-$MFlateable $MTF (Second Token) - BNB & $MFlate Rewards- Auto liquidity - Adjustable Tax- 765 Holders 
+$MFlateable $MTF (Second Token) - BNB & $MFlate Rewards - Auto liquidity - Adjustable Tax - 765 Holders 
 
 DirtLife_TM (NFT-Staking Reward Token) - 0 tax - Claim From staking NFTs - GameFi - Auto Liquidity 
+
+DirtLife ' I Do Dirt ' NFTs (MemeFlates NFT collection) - integrated with XP.Network cross chain bridge.
 
 ## Dapps
 
@@ -115,14 +123,14 @@ jackpot.memeflate.io ($MFLATE jackpot) - Chainlink VRF
 
 vote.memeflate.io ($MFLATE Tax Voting)
 
-swap.memeflate.io (discontinued)
-
 NFT-Staking - Smart contract - Chainlink Keepers = ready - frontend = (Under development)
 
-## Games
+
+## Web 3 Games
 
 DirtLife Roulette (under development)
 
+MemeFlate will release a minimum of 5 casino and 2D over a 1 year time span.
 
 ### Team Code Repos
 
@@ -142,7 +150,7 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 - Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
 - Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
+- Please note that we require documentation (e.g. | 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
 - Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
 - Please commit to providing dockerfiles for the delivery of your project.
 
@@ -168,20 +176,25 @@ Milestone 4 |    30        |             2          |           $2,500
 |-|-|-|
 | 0a.| License | Apache 2.0 / MIT / Unlicense |
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 0c. | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will migrate current smart contracts $MFLATE,$MFT and DirtLife_TM
+| 1 | Smart Contracts | We will migrate current smart contracts $MFLATE,$MFT and DirtLife_TM and upgrade where nesscearry to comply with VeChain blockchain this smart contract have funtionalities such as, auto Staking/ Manuel Staking/ Vechain Rewards/De-Fi/NFT/NFT-Staking/GameFi/Social-Fi and in later develpoments look to develop a stable coin for freelancers to recieve as form of payment.
+| 2 | Testing | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
+| 3 | Backend & tutoriels | MemeFlates Smart contracts will be the backend for project Dapps providing maintenance, adjustable dapp funcationalites,source codes and we will provide full tutoriels .
 
-#### Milestone 2 - Front end Dapps and Testing
+#### Milestone 2 - Frontend Dapps and Testing
 
  | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Frontend | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
-| 2 | Testing Guide | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 1 | Smart Contracts | We will migrate current smart contracts and upgrade where nesscearry to comply with VeChain blockchain that will have funtionalities such as 
-  Auto Staking/ Manuel Staking/ Vechain Rewards/De-Fi/NFT/NFT-Staking/GameFi/Social-Fi and in later develpoments look to develop a stable coin for freelancers to recieve as form of payment.|
-| 2 | Backend | "We will create a backend service that will... (Please list the functionality that will be coded for the backend)" |
+| 1 | Frontend | MemeFlate will rebuild all project Dapps to a high standered using react.js. We will also provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend services.|
+| 2 | Dapp Testing | MemeFlate Dapps will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. and if any bug arise it will fix before final deployment. All documentaion explaning test were ran will be proivded.  |
+| 2 |  backend | source codes stored for maintainance and upkeep.
 
-#### Milestone 3
+#### Milestone 3 Mainnet Deployment and Testing 
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | Deployment | MemeFlate will deploy all smart contracts to the VeChain mainnet|
+| 2 | Dapp Testing | Test deployed Dapps on the mainnet for funtionality and excution|
+| 3 |  backend | source codes stored for maintainance and upkeep
+
 ...
 
 #### Community engagement/
