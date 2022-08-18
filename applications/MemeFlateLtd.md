@@ -99,9 +99,11 @@ and has building a long lits of projects tokens, web3 Dapps and games.
 
 ## Tokens
 
-$MFlateable $MTF (second token)
+MemeFlate $MFLATE (Native Token) - DeFi- Holder Tax voting - 7,200 holders
 
-DirtLife_TM (NFT-Staking Reward)
+$MFlateable $MTF (Second Token) - BNB & $MFlate Rewards- Auto liquidity - Adjustable Tax- 765 Holders 
+
+DirtLife_TM (NFT-Staking Reward Token) - 0 tax - Claim From staking NFTs - GameFi - Auto Liquidity 
 
 ## Dapps
 
