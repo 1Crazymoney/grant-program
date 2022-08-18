@@ -11,20 +11,17 @@
 
 Please provide the following:
 
-- A brief description of the project.
+## - A brief description of the project.
 
 The part Decentralized MemeFlate2.0 platform is essentially a freelance marketplace for digital and local services. The marketplace acts as a medium, offering Freelancers, buyers and visitors a unique experience that is designed to gain more user interaction whilst browsing and open the world to mass adoption of payments made in cryptocurrencies with a diverse eco-system of token with relatable utilities for the everyday person.
 
-- An indication of why your team is interested in creating this project within the VeChain Ecosystem.
+## - An indication of why your team is interested in creating this project within the VeChain Ecosystem.
 
 The MemeFlate project, all though heavily deveploped on the BSC network lack the support from the network itself in assisting develop smaller projects such as MemeFlate. By building and completeing the project on the VeChain network MemeFlate would gain, support, much needed resources and a chance to network with relevent projects and platorms.
 
 ### Project Details
 
-We expect the teams to already have a solid idea about the project's expected final state.
-Therefore, we ask the teams to submit (where relevant):
-
-- Mockups/designs of any UI components
+## - Mockups/designs of any UI components
 
 The follwing designs and UI components show funcationality and integrations of the Marketplace freelance usecase.
 
@@ -46,19 +43,20 @@ The follwing designs and UI components show funcationality and integrations of t
 ![div20](https://user-images.githubusercontent.com/93653525/185125655-9c530353-4466-4c02-bfc0-712e7e5e962a.png)
 
 
-- An overview of the technology stack to be used
+## - Technology stack to be used
 
 MemeFlate is a multi layered project and pulls from many open source libabries to build its tokens utilities and Dapps,
 react/react.js is used to tie together our solidity smartcontracts along with Chainlink Vrf v2 and keepers protocol integrated in to Gaming and NFT-staking, NFTs have also been integrated with XP.network cross chain bridge techonolgy, allowing users to tranfer the projects NFT collection to and from multiple chains/networks inlcuding VeChain.
 
-- Documentation of core components, protocols, architecture, etc. to be deployed
+## - Documentation of core components, protocols, architecture, etc. to be deployed
 
 Most of the projects arhitetcure is already established and uses protocols provided by solidity. Any relevent documentaion can be sourced from memeflate.io .
 
 
 
 ### Ecosystem Fit
-Are there any other projects similar to yours? If so, how is your project different?
+
+## Are there any other projects similar to yours? If so, how is your project different?
 
 There are simlier crypto based project to MemeFlates freelance  marketplace usecase but they are few and far bewteen, the more traditioal platforms that provide some the same services are all world leading and thus seen as an aspiration for the project.
 
@@ -94,11 +92,11 @@ Please describe the team's relevant experience. If the project involves developm
 
 The MemeFlate team currently comprises of the CEO/Team leader and 1 solidity/react developer
 
-Roche dixon (CEO)
+## Roche dixon (CEO)
 
 has over 6 years experince in managing his own catering company and with in running his own busnniess has gain a plethora of skills and knowledge to aid the project in it development from App and Web Design to Graphic Design, Customer Services, People Management, Marketing, Booking keeping, and Networking. He has also contributed the most to the project in terms of financing, projects ecosystem structure and over all look and direction.
 
-Mark the Dev
+## Mark the Dev
 
 Started working as the Project First and only solidity smart contract builder and has over 2 years experiance in TypeScript/react.js/next.js/node.js and truffle
 and has building a long lits of projects tokens, web3 Dapps and games.
@@ -199,11 +197,13 @@ Milestone 4 |    30        |             2          |           $2,500
 
 #### Community engagement/
 
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
+## As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
+
+MemeFlate will use all social media and professional channels to publish articles/tutorials.
 
 ## Future Plans
 
-Please include the team's long-term plans and intentions.
+## Please include the team's long-term plans and intentions.
 
 MemeFlate and its ecosystem would like to provide freelancers away to earn a little bit extra and a stable way of receiving cryptocurrncies, by eliement the need for the platform to charge any commission unlike its competitors and create the first 'Freelancer Stable Coin' back by multi currencies maintaining its face value (USD ect) the marketplace will stand out amongest the Freelance sector.
  MemeFlate aims to make this stable innovative by creating a swap feature that allows a buyer/user of the platform to trade in any crypto currency in return for the coin, this coin is then used to pay freelancers who can then decide to trade it in for many crypto/fiat currenccies or stake the coin to receive competitive APR%,
