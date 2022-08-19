@@ -77,7 +77,19 @@ MemeFlate would like to be innovative by also offering 'local services' in which
 
 MemeFlate was created by a creative mind and small busniess owner so this can be looked at as a cutting edge with the willingness to see the project succeed.
 
- 
+## Examples of some of the above
+
+(Community Centre)
+![div26](https://user-images.githubusercontent.com/93653525/185701891-ea1f4757-1628-4301-87fc-d4df4c1a2ca9.png)
+
+($MFlateable Merch Store)
+![div27](https://user-images.githubusercontent.com/93653525/185702376-3aafe903-b0a0-4d24-8cf7-178f0582f995.png)
+
+(example of a local service - personal trainer from the U.K)
+![div28](https://user-images.githubusercontent.com/93653525/185703115-a007e624-3028-4d39-b1c6-9cda19e6cfb3.png)
+
+
+
 ## Team 
 
 - Name of team leader
