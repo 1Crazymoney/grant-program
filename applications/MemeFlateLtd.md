@@ -21,20 +21,20 @@ The MemeFlate project, all though heavily deveploped on the BSC network lack the
 
 ### Project Details
 
-## - Mockups/designs of any UI components
+## - functionality of the marketplaces UI interface
 
-The follwing designs and UI components show funcationality and integrations of the Marketplace freelance usecase.
+The follwing designs and UI components show functionality and integrations of the Marketplace freelance usecase.
 
 ## (User profile)
 ![div17](https://user-images.githubusercontent.com/93653525/185122455-40d67bc9-0c6c-4445-8ab4-d34d8a80e493.png)
 
-## (2 step verification Crypto wallet on line wallet)
+## (2 Step verification online crypto-wallet)
 ![div10](https://user-images.githubusercontent.com/93653525/185115059-1616056e-bb87-4c95-a8ba-07b84f1a4efd.png)
 
-## (Sellers profile)
+## (Freelancers profile)
 ![div9](https://user-images.githubusercontent.com/93653525/185122219-5bcb68ec-a0e2-4243-bf0e-5ffd518dcb1a.png)
 
-## (Buyer contacing seller)
+## (Buyer contacting seller)
 ![div18](https://user-images.githubusercontent.com/93653525/185121737-32ce983a-6f96-4f07-bb5d-08b83f977333.png)
 
 ## (Buyer placing order and paying for service) 
@@ -50,14 +50,14 @@ react/react.js is used to tie together our solidity smartcontracts along with Ch
 
 ## - Documentation of core components, protocols, architecture, etc. to be deployed
 
-Most of the projects arhitetcure is already established and uses protocols provided by solidity. Any relevent documentaion can be sourced from memeflate.io .
+Most of the projects arhitetcure is already established and uses protocols provided by solidity. Any relevent documentaion can be provided appond request.
 
 
 ### Ecosystem Fit
 
 ## MemeFlate2.0 marketplace website satistics
 
-## (views around the world)
+## (Viewership around the world)
 ![div21](https://user-images.githubusercontent.com/93653525/185458298-19c10071-6793-4ba1-a2ce-ad17cc5277a5.png)
 
 ## (views from some countries around the world)
@@ -69,15 +69,14 @@ Most of the projects arhitetcure is already established and uses protocols provi
 
 ## Are there any other projects similar to yours? If so, how is your project different?
 
-There are simlier crypto based project to MemeFlates freelance  marketplace usecase but they are few and far bewteen, the more traditioal platforms that provide some the same services are all world leading and thus seen as an aspiration for the project.
+There are simlier crypto based project to MemeFlates freelance marketplace, but they are few and far bewteen, the more traditioal platforms that provide some of the same services are all world leading and thus seen as an aspiration/competition to the project.
 
 MemeFlate strives to be different in many ways ranging from but not limited to the following:
 
-Facebook type community centre allowing users to build profiles, add friends, send gifs, videos, photos and post updates, this allows buyers,sellers and users to interact with each other whilst building a level of trust and community among the site, visters and users.
+A Facebook type community centre, allowing users to, build profiles, add friends, send gifs/videos/photos and post updates, this allows buyers, freelancers and users to interact with each other, building a level of trust and community among all platform users.
 
-MemeFlate focuses on user intraction to attract not only freelancers and cryptocurreny enthusiast but the everyday person too, MemeFlate acheivies this by offering a wide range of easy to use and relateable web3 Dapps to acommpany the maketplace usecase. MemeFlate will become the platform of choice in its secture with Freelance and how they receive cryptocurrency payments(stable coin),  Auto staking, optional staking, NFTs, NFT-Staking, Rewards, Game-Fi and social-Fi all on 1 platform.
-
-As cryto is community driven MemeFlate is inclusive of those who wish to take part in the project and find ways to help people earn, so it has a merchaindise store open to community and marketplace users to design and earn (d2e) by providing designs for merch and earning from the procceeds.
+MemeFlate focuses on user intraction to attract not only freelancers and cryptocurreny enthusiast but the everyday person too, MemeFlate acheivies this by offering a wide range of easy to use and relateable web3 Dapps to accompany the maketplaces usecase. MemeFlate will become the platform of choice when it comes to freelancers and how they receive cryptocurrency payments and gain access to utilities like, Auto staking, Optional staking, NFTs, NFT-Staking, Rewards, Game-Fi and social-Fi.
+As the cryto space is community driven MemeFlate is inclusive of those who wish to take part in the project and find ways to help people earn,it has opened up a merchaindise store to community and marketplace users to design2earn (d2e) by providing designs for merch.
 
 MemeFlate was created by a creative mind and small busniess owner so this can be looked at as a cutting edge and willingness to see the project succeed.
 
@@ -99,7 +98,7 @@ Mark the Developer
 
 ### Team's experience
 
-Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
+## Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
 
 The MemeFlate team currently comprises of the CEO/Team leader and 1 solidity/react developer
 
@@ -141,7 +140,7 @@ DirtLife Roulette (under development)
 
 MemeFlate will release a minimum of 5 casino and 2D over a 1 year time span.
 
-## example Of Web3 Dapps currently built
+## example Of Web3 Dapps currently built on BSC blockchain
 
 ## ($MFT Staking)
 ![staked](https://user-images.githubusercontent.com/93653525/185460703-2c601352-8795-452a-8f7e-9c03576aa2e1.png)
@@ -177,16 +176,18 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 ### Roadmap for MemeFlates Smart Contract And Dapp Applications
 
-#### Overview
+#### Milestone Overview
 Milestones | Estimated Duration | Full-time equivalent (FTE) | Cost
 
-Milestone 1 |    30        |             2          |           $2,000
+Milestone 1 |    30        |             2          |           $4,000
   
-Milestone 2 |    30        |             2          |           $5,000
+Milestone 2 |    30        |             2          |           $7,000
 
-Milestone 3 |    30        |             2          |           $1,500
+Milestone 3 |    30        |             2          |           $2,500
   
-Milestone 4 |    30        |             2          |           $2,500
+Milestone 4 |    60        |             2          |          unsure
+
+- These cost are estimated and would be discussed in detail with the VeChaon committee.
  
 
 
@@ -194,26 +195,31 @@ Milestone 4 |    30        |             2          |           $2,500
 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 0a.| License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
+| 0a.| License |  MIT / Unlicense |
 | 1 | Smart Contracts | We will migrate current smart contracts $MFLATE,$MFT and DirtLife_TM and upgrade where nesscearry to comply with VeChain blockchain this smart contract have funtionalities such as, auto Staking/ Manuel Staking/ Vechain Rewards/De-Fi/NFT/NFT-Staking/GameFi/Social-Fi and in later develpoments look to develop a stable coin for freelancers to recieve as form of payment.
 | 2 | Testing | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
-| 3 | Backend & tutoriels | MemeFlates Smart contracts will be the backend for project Dapps providing maintenance, adjustable dapp funcationalites,source codes and we will provide full tutoriels .
+| 3 | Backend & tutoriels | MemeFlates Smart contracts will be the backend for project Dapps providing maintenance, adjustable dapp functionality,source codes and we will provide full tutoriels .
 
 #### Milestone 2 - Frontend Dapps and Testing
 
  | Number | Deliverable | Specification |
 |-|-|-|
 | 1 | Frontend | MemeFlate will rebuild all project Dapps to a high standered using react.js. We will also provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend services.|
-| 2 | Dapp Testing | MemeFlate Dapps will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. and if any bug arise it will fix before final deployment. All documentaion explaning test were ran will be proivded.  |
+| 2 | Dapp Testing | MemeFlate Dapps will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. and if any bug arise it will fix before final deployment. All documentaion explaning test ran will be proivded.  |
 | 2 |  backend | source codes stored for maintainance and upkeep.
 
 #### Milestone 3 Mainnet Deployment and Testing 
+
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Deployment | MemeFlate will deploy all smart contracts to the VeChain mainnet|
-| 2 | Dapp Testing | Test deployed Dapps on the mainnet for funtionality and excution|
-| 3 |  backend | source codes stored for maintainance and upkeep
+| 1 | Deployment | MemeFlate will deploy all smart contracts to the VeChain mainnet.|
+| 2 | Dapp Testing | Test deployed Dapps on the mainnet for funtionality and excution.|
+| 3 |  backend | source codes stored for maintainance and upkeep.
+
+### Milestone 4 
+| Number | Deliverable | Specification |
+|-|-|-|
+| 1 | Freelancer stable coin concept |MemeFlate along with VeChain will start to look at the development of the Freelancer stable coin/swap aggregator explain in 'long term plans' and the hugh benefits it can bring to MemeFlate, freelancers and the the VeChain bloackchain as a whole.
 
 ...
 
@@ -228,8 +234,7 @@ MemeFlate will use all social media and professional channels to publish article
 ## Please include the team's long-term plans and intentions.
 
 MemeFlate and its ecosystem would like to provide freelancers away to earn a little bit extra and a stable way of receiving cryptocurrncies, by eliement the need for the platform to charge any commission unlike its competitors and create the first 'Freelancer Stable Coin' back by multi currencies maintaining its face value (USD ect) the marketplace will stand out amongest the Freelance sector.
- MemeFlate aims to make this stable innovative by creating a swap feature that allows a buyer/user of the platform to trade in any crypto currency in return for the coin, this coin is then used to pay freelancers who can then decide to trade it in for many crypto/fiat currenccies or stake the coin to receive competitive APR%,
-(passive income), gifts and access stable coin related future products. With the expansion of the marketplace it would hope to secure substanuale partnerships with reputable orginastion to back the plaform giving freelance more ways to save/earn/ and use their stable coins. 
+ MemeFlate aims to make this stable innovative by creating a swap aggregator feature that allows a buyer/user of the platform to trade in any crypto currency, and in return receive freelance satble coin, this coin is then used to pay freelancers who can then decide to trade it in for other crypto/fiat currenccies or stake the coin to receive competitive APR%, gifts and access stable coin related future products. With the expansion of the marketplace it would hope to secure substanuale partnerships with reputable orginastions to back the plaform, giving freelance more ways to save/earn/ and use their stable coins cross the market. 
 
 ## Example of a integrated swap feature built in to the site, this is how or stable coin will funcation)
 
@@ -239,7 +244,20 @@ MemeFlate and its ecosystem would like to provide freelancers away to earn a lit
 
 Any additional information that you think is relevant to this application that hasn't already been included.
 
-Possible additional information to include:
-- What work has been done so far?
-- Are there any teams who have already contributed (financially) to the project?
-- Have you applied for other grants so far?
+The MemeFlate Project has exsisted for over 15 months and has built the foundation of what it believes to be a top prospect project and a little different from the avarage tech company, with this being said MemeFlate has acommplished at lot with little resources and funding, funding has mainly been provided by the project owner and will continue to be untill a break through is made.
+
+MemeFlate as applied for around 3 grants to date 
+
+Gatechain
+pancake swap MVP
+First Round
+
+## All relevent project links
+
+Website: https://memeflate.io
+Website: https://dirtlifenfts.com
+Twitter: https://twitter.com/memeflate
+Instagram: https://instagram.com/memeflate2.0
+Telegram Group: https://t.me/memeflatereloaded
+Article:
+https://finance.yahoo.com/news/memeflate-announces-non-traditional-marketplace-182500744.html
