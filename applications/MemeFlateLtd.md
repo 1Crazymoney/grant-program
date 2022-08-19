@@ -1,4 +1,4 @@
-# VeChain General Grant Application Template
+# VeChain General Grant Application
 
 ## Project Overview 
 
@@ -9,13 +9,7 @@
 
 ### Overview
 
-Please provide the following:
-
-## - A brief description of the project.
-
 The part Decentralized MemeFlate2.0 platform is essentially a freelance marketplace for digital and local services. The marketplace acts as a medium, offering Freelancers, buyers and visitors a unique experience that is designed to gain more user interaction whilst browsing and open the world to mass adoption of payments made in cryptocurrencies with a diverse eco-system of token with relatable utilities for the everyday person.
-
-## - An indication of why your team is interested in creating this project within the VeChain Ecosystem.
 
 The MemeFlate project, all though heavily deveploped on the BSC network lacks the support from the network itself in assisting develop smaller projects such as MemeFlate. By building and completeing the project on the VeChain network MemeFlate would gain, support, much needed resources and a chance to network with relevant projects and platforms.
 
@@ -42,7 +36,6 @@ The follwing designs and UI components show functionality and integrations of th
 
 ![div20](https://user-images.githubusercontent.com/93653525/185125655-9c530353-4466-4c02-bfc0-712e7e5e962a.png)
 
-
 ## - Technology stack to be used
 
 MemeFlate is a multi layered project and pulls from many open source libabries to build its, tokens, utilities and Dapps.
@@ -64,8 +57,6 @@ Most of the projects architectcure is already established and uses protocols pro
 ![div22](https://user-images.githubusercontent.com/93653525/185458983-784fc3cf-246c-43dc-b33c-34a3a4a233e1.png)
 ![div23](https://user-images.githubusercontent.com/93653525/185459504-604e83a5-e348-4df1-86d0-e8b189a7cbed.png)
 ![div24](https://user-images.githubusercontent.com/93653525/185460063-3347b414-9fc6-4084-9910-92dbb65c9576.png)
-
-
 
 ## Are there any other projects similar to yours? If so, how is your project different?
 
@@ -89,8 +80,6 @@ MemeFlate was created by a creative mind and small busniess owner so this can be
  
 ## Team 
 
-### Team members
-
 - Name of team leader
 Roché Dixon
 - Names of team members
@@ -101,8 +90,6 @@ Mark the Developer
 - https://memeflate.io
 
 ### Team's experience
-
-## Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
 
 The MemeFlate team currently comprises of the CEO/Team leader, 1 solidity/react developer and a small community of investors.
 
@@ -116,7 +103,7 @@ App and Web Design, Graphic Design, Customer Services, People Management, Market
 
 Started working as the projects first and only solidity smart contract developer and has assisted the project greatly.
 Mark has over 2 years experiance in TypeScript/react.js/next.js/node.js and truffle
-and has building a long lists of projects tokens, web3 Dapps and games.
+and has built a long lists of project tokens, web3 Dapps and games.
 
 ##  BSC Tokens
 
@@ -140,14 +127,13 @@ vote.memeflate.io ($MFLATE Tax Voting)
 
 NFT-Staking - Smart contract - Chainlink Keepers = ready - frontend = (Under development)
 
-
 ## Web 3 Games
 
 DirtLife Roulette (under development)
 
 MemeFlate will release a minimum of 5 casino and 2D games over a 1 year time span.
 
-## example Of Web3 Dapps currently built on BSC blockchain
+## example Of Web3 Dapps currently built on BSC blockchain and in use
 
 ## ($MFT Staking)
 ![staked](https://user-images.githubusercontent.com/93653525/185460703-2c601352-8795-452a-8f7e-9c03576aa2e1.png)
@@ -172,8 +158,6 @@ MemeFlate will release a minimum of 5 casino and 2D games over a 1 year time spa
 - https://www.linkedin.com/in/roché-dixon-692834214/
 - https://www.linkedin.com/in/memeflate-ltd-a874b0226/
 
-## Development Roadmap 
-
 ### Roadmap for MemeFlates Smart Contract And Dapp Applications
 
 #### Milestone Overview
@@ -187,29 +171,24 @@ Milestone 3 |    30        |             2          |           $2,500
   
 Milestone 4 |    60        |             2          |          unsure
 
-- These cost are estimated and would be discussed in detail with the VeChain committee.
+- These cost are estimated and will be discussed in detail with the VeChain committee.
  
-
-
 #### Milestone 1 — Smart Contract(s) migration & Backend Testing
-
 | Number | Deliverable | Specification |
 |-|-|-|
 | 0a.| License |  MIT / Unlicense |
-| 1 | Smart Contracts | We will migrate current smart contracts $MFLATE,$MFT and DirtLife_TM and upgrade where nesscearry to comply with the VeChain blockchain network, this smart contracts have funtionalities such as: Auto Staking/ Manuel Staking/ Vechain Rewards/De-Fi/NFT/NFT-Staking/GameFi/Social-Fi and in later develpoments look to develop a stable coin for freelancers to recieve as form of payment.
+| 1 | Smart Contracts | We will migrate current smart contracts $MFLATE,$MFT and DirtLife_TM, their utilites and upgrade where nesscearry to comply with the VeChain blockchain network, these smart contracts have funtionalities such as: Auto Staking/ Manuel Staking/ Vechain Rewards/De-Fi/NFT/NFT-Staking/Game-Fi/Social-Fi and in later develpoment, a stable coin for freelancers to receive as the main form of payment.
 | 2 | Testing | The code will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. In the guide, we will describe how to run these tests |
 | 3 | Backend & tutoriels | MemeFlates Smart contracts will be the backend for project Dapps providing maintenance, adjustable dapp functionality,source codes and we will provide full tutoriels .
 
 #### Milestone 2 - Frontend Dapps and Testing
-
  | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Frontend | MemeFlate will rebuild all project Dapps to a high standered using react.js. We will also provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend services.|
-| 2 | Dapp Testing | MemeFlate Dapps will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. and if any bug arise it will fix before final deployment. All documentaion explaning test ran will be proivded.  |
+| 1 | Frontend | MemeFlate will rebuild all project Dapps to a high standard using the most up to date technologies, MemeFlate will also provide both inline documentation of the codes and a basic tutorials that can interact with the deployed smart contracts and backend services.|
+| 2 | Dapp Testing | MemeFlate Dapps will have proper unit-test coverage (e.g. 90%) to ensure functionality and robustness. and if any bug arise it will fix before final deployment. All documentaion explaining tests will be proivded.  |
 | 2 |  backend | source codes stored for maintainance and upkeep.
 
 #### Milestone 3 Mainnet Deployment and Testing 
-
 | Number | Deliverable | Specification |
 |-|-|-|
 | 1 | Deployment | MemeFlate will deploy all smart contracts to the VeChain network mainnet.|
@@ -219,19 +198,16 @@ Milestone 4 |    60        |             2          |          unsure
 ### Milestone 4 
 | Number | Deliverable | Specification |
 |-|-|-|
-| 1 | Freelancer stable coin concept | MemeFlate along with VeChain will start to look at the development of the 'Freelancer stable coin' and swap aggregator explained in 'long term plans' and the hugh benefits it can bring to MemeFlate, freelancers and the the VeChain bloackchain as a whole.
+| 1 | 'Freelancer stable coin' innovation concept | MemeFlate along with VeChain will start to look at the development of the 'Freelancer stable coin' and swap aggregator explained in 'long term plans' and the huge benefits it can bring to MemeFlate, freelancers around the world and the VeChain bloackchain as a whole.
 
 ...
 
 #### Community engagement/
 
-## As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant.
-
 MemeFlate will use all social media and professional channels to publish articles/tutorials.
 
 ## Future Plans
 
-## Please include the team's long-term plans and intentions.
 MemeFlate and its ecosystem would like to provide freelancers away to earn a little bit extra and a stable way of receiving cryptocurrncies as a payment method, by eliement the need for the platform to charge any commission unlike its competitors and create the first 'Freelancer Stable Coin' backed by multi fiat currencies  always maintaining its face value (USDT BUSD ect) the marketplace will stand out as a diverse freelance platform.
 MemeFlate aims to make this stable innovative by creating a swap aggregator that allows a buyer/user of the platform to trade in any crypto currency, and in return receive the freelance satble coin, this coin is then used to pay freelancers who can then decide to trade it in for other crypto/fiat currenccies or stake the coin to receive competitive APR%, gifts and access stable coin related products. With the expansion of the marketplace it would hope to secure substantial partnerships with reputable orginization to back the plaform thus giving freelance more ways to save/earn/ reason to use the plaform and use their stable coins cross the open market market. (this stable coin should be able to be purchased by using Debit card, PayPal and the swap)
 
@@ -241,8 +217,6 @@ MemeFlate aims to make this stable innovative by creating a swap aggregator that
 ![div25](https://user-images.githubusercontent.com/93653525/185462199-5cce2b39-61af-4caa-abec-dc8f9c22e0fc.png)
 
 ## Additional Information 
-
-## Any additional information that you think is relevant to this application that hasn't already been included.
 
 The MemeFlate Project has exsisted for over 15 months and has built the foundation of what it believes to be a top prospect project and a little different from the avarage tech company, with this being said MemeFlate has accomplished at lot with little resources and fundin. Funding has mainly been provided by the project owner and will continue to be untill a break through is made.
 
