@@ -46,11 +46,11 @@ The follwing designs and UI components show functionality and integrations of th
 ## - Technology stack to be used
 
 MemeFlate is a multi layered project and pulls from many open source libabries to build its, tokens, utilities and Dapps.
-react.js is used to tie together our solidity smartcontracts along with Chainlinks Vrf v2 and keepers protocols integrated in to Gaming and NFT-staking, NFTs have also been integrated with XP.network cross chain bridge techonolgy, allowing users to tranfer the projects NFT collection to and from multiple chains/networks including VeChain.
+react.js is used to tie together our solidity smartcontracts along with Chainlinks Vrf v2 and keepers protocols integrated in to Gaming and NFT-staking, NFTs have also been integrated with XP.network cross chain bridge technology, allowing users to tranfer the projects NFT collection to and from multiple blockchains/networks including VeChain.
 
 ## - Documentation of core components, protocols, architecture, etc. to be deployed
 
-Most of the projects arhitetcure is already established and uses protocols provided by solidity. Any relevent documentaion can be provided upon request.
+Most of the projects architectcure is already established and uses protocols provided by smart contract(s) solidity. Any relevent documentation will be provided upon request.
 
 
 ### Ecosystem Fit
