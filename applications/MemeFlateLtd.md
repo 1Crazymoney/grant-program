@@ -78,9 +78,12 @@ A Facebook type community centre, allowing users to, build profiles, add friends
 MemeFlate focuses on user intraction to attract not only freelancers and cryptocurreny enthusiast but the everyday person too, MemeFlate acheivies this by offering a wide range of easy to use and relateable web3 Dapps to accompany the maketplaces usecase. MemeFlate will become the platform of choice when it comes to freelancers and how they receive cryptocurrency payments and gain access to utilities like, Auto staking, Optional staking, NFTs, NFT-Staking, Rewards, Game-Fi and social-Fi.
 As the cryto space is community driven MemeFlate is inclusive of those who wish to take part in the project and find ways to help people earn,it has opened up a merchaindise store to community and marketplace users to design2earn (d2e) by providing designs for merch.
 
-MemeFlate was created by a creative mind and small busniess owner so this can be looked at as a cutting edge and willingness to see the project succeed.
+MemeFlate eleminates the need to charge any commission to a freelancers or buyer, by providing optional Web3 utilites in which where the plaform can earn an income and support its growth (0 commission Platform).
+Unlike similer platform, MemeFlate can also reduce its withdrawal times for freelancers by up to 80% giving them acceess to funds when they need them most.
 
 MemeFlate would like to be innovative by also offering local services in which where a seller of perticaler goods in different parts of the world can ship items wished to be purchased in another part of the world and with MemeFlate having its inception in the crypto space it makes its range and prediction for growth exponential.
+
+MemeFlate was created by a creative mind and small busniess owner so this can be looked at as a cutting edge and willingness to see the project succeed.
 
  
 ## Team 
