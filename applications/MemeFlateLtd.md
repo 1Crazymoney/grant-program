@@ -2,8 +2,8 @@
 
 ## Project Overview 
 
-- Project: MemeFlate
-- Team Name: $MFlateables 
+- Project: MemeFlate $MFLATE Ltd
+- Team Name: $MFlateables ($MFLATE-A-BULLS)
 - Payment Address: 0xb3df15802d09f26488a564b3dbb836edeac38505
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
