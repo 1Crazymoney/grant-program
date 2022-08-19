@@ -46,7 +46,7 @@ The follwing designs and UI components show functionality and integrations of th
 ## - Technology stack to be used
 
 MemeFlate is a multi layered project and pulls from many open source libabries to build its tokens utilities and Dapps,
-react/react.js is used to tie together our solidity smartcontracts along with Chainlink Vrf v2 and keepers protocol integrated in to Gaming and NFT-staking, NFTs have also been integrated with XP.network cross chain bridge techonolgy, allowing users to tranfer the projects NFT collection to and from multiple chains/networks inlcuding VeChain.
+react/react.js is used to tie together our solidity smartcontracts along with Chainlinks Vrf v2 and keepers protocols integrated in to Gaming and NFT-staking, NFTs have also been integrated with XP.network cross chain bridge techonolgy, allowing users to tranfer the projects NFT collection to and from multiple chains/networks inlcuding VeChain.
 
 ## - Documentation of core components, protocols, architecture, etc. to be deployed
 
@@ -75,15 +75,16 @@ MemeFlate strives to be different in many ways ranging from but not limited to t
 
 A Facebook type community centre, allowing users to, build profiles, add friends, send gifs/videos/photos and post updates, this allows buyers, freelancers and users to interact with each other, building a level of trust and community among all platform users.
 
-MemeFlate focuses on user intraction to attract not only freelancers and cryptocurreny enthusiast but the everyday person too, MemeFlate acheivies this by offering a wide range of easy to use and relateable web3 Dapps to accompany the maketplaces usecase. MemeFlate will become the platform of choice when it comes to freelancers and how they receive cryptocurrency payments and gain access to utilities like, Auto staking, Optional staking, NFTs, NFT-Staking, Rewards, Game-Fi and social-Fi.
+MemeFlate focuses on user intraction to attract not only freelancers and cryptocurreny enthusiast but the everyday person too, MemeFlate achieves this by offering a wide range of easy to use and relateable web3 Dapps to accompany the maketplaces usecase. MemeFlate will become the platform of choice when it comes to freelancers and how they receive cryptocurrency payments plus gain access to utilities like, Auto staking, Optional staking, NFTs, NFT-Staking, Rewards, Game-Fi and social-Fi
+
 As the cryto space is community driven MemeFlate is inclusive of those who wish to take part in the project and find ways to help people earn,it has opened up a merchaindise store to community and marketplace users to design2earn (d2e) by providing designs for merch.
 
-MemeFlate eleminates the need to charge any commission to a freelancers or buyer, by providing optional Web3 utilites in which where the plaform can earn an income and support its growth (0 commission Platform).
-Unlike similer platform, MemeFlate can also reduce its withdrawal times for freelancers by up to 80% giving them acceess to funds when they need them most.
+MemeFlate eliminates the need to charge any commission to a freelancers or buyer compare to other more noteable platforms by providing optional Web3 utilites in which the plaform can earn an income and support its growth (0 commission Platform).
+Unlike similer platforms, MemeFlate can also reduce its withdrawal times for freelancers by up to 80%,  giving them acceess to funds when they need them most.
 
-MemeFlate would like to be innovative by also offering local services in which where a seller of perticaler goods in different parts of the world can ship items wished to be purchased in another part of the world and with MemeFlate having its inception in the crypto space it makes its range and prediction for growth exponential.
+MemeFlate would like to be innovative by also offering local services in which where a seller of  goods in one parts of the world can ship items wished to be purchased in another part of the world and with MemeFlate having its inception in the crypto space it makes its rreach and prediction for growth exponentially.
 
-MemeFlate was created by a creative mind and small busniess owner so this can be looked at as a cutting edge and willingness to see the project succeed.
+MemeFlate was created by a creative mind and small busniess owner so this can be looked at as a cutting edge with the willingness to see the project succeed.
 
  
 ## Team 
@@ -107,7 +108,9 @@ The MemeFlate team currently comprises of the CEO/Team leader and 1 solidity/rea
 
 ## Roche dixon (CEO)
 
-has over 6 years experince in managing his own catering company and with in running his own busnniess has gain a plethora of skills and knowledge to aid the project in it development from App and Web Design to Graphic Design, Customer Services, People Management, Marketing, Booking keeping, and Networking. He has also contributed the most to the project in terms of financing, projects ecosystem structure and over all look and direction.
+has over 6 years experince in managing his own catering company and with in running his own busnniess has gain a plethora of skills and knowledge to aid the project in its developments, these skills include:
+App and Web Design, Graphic Design, Customer Services, People Management, Marketing, Booking keeping, and Networking. He has also contributed the most to the project in terms of finances, projects ecosystem and over all structure aand direction.
+finances
 
 ## Mark the Dev
 
@@ -258,9 +261,17 @@ First Round
 ## All relevent project links
 
 Website: https://memeflate.io
+
 Website: https://dirtlifenfts.com
+
 Twitter: https://twitter.com/memeflate
+
+Twitter: https://twitter.com/dirtlife_
+
 Instagram: https://instagram.com/memeflate2.0
+
 Telegram Group: https://t.me/memeflatereloaded
-Article:
-https://finance.yahoo.com/news/memeflate-announces-non-traditional-marketplace-182500744.html
+
+Medium: https://medium.com/@memeflate2.0
+
+Article: https://finance.yahoo.com/news/memeflate-announces-non-traditional-marketplace-182500744.html
