@@ -11,7 +11,7 @@
 
 The part Decentralized MemeFlate2.0 platform is essentially a freelance marketplace for digital and local services. The marketplace acts as a medium, offering Freelancers, buyers and visitors a unique experience that is designed to gain more user interaction whilst browsing and open the world to mass adoption of payments made in cryptocurrencies with a diverse eco-system of token with relatable utilities for the everyday person.
 
-The MemeFlate project, all though heavily deveploped on the BSC network lacks the support from the network itself in assisting develop smaller projects such as MemeFlate. By building and completeing the project on the VeChain network MemeFlate would gain, support, much needed resources and a chance to network with relevant projects and platforms.
+The MemeFlate project, all though heavily developed on the BSC network lacks the support from the network itself, in assisting develop smaller projects such as MemeFlate. By building and completeing the project on the VeChain network MemeFlate would gain, support, much needed resources and a chance to network with relevant projects and platforms.
 
 ### Project Details
 
@@ -60,7 +60,7 @@ Most of the projects architectcure is already established and uses protocols pro
 
 ## Are there any other projects similar to yours? If so, how is your project different?
 
-There are simlar crypto based project to the MemeFlates freelance marketplace, but they are few and far between, the more traditioal platforms that provide some of the same services are all world leading and thus seen as an aspiration/competition to the project.
+There are simlar crypto based project to the MemeFlates freelance marketplace, but they are few and far between, the more traditioal platforms that provide some of the same services are world leading and thus seen as an aspiration/competition to the project.
 
 MemeFlate strives to be different in many ways ranging from but not limited to the following:
 
@@ -232,10 +232,10 @@ MemeFlate aims to make this stable innovative by creating a swap aggregator that
 
 The MemeFlate Project has exsisted for over 15 months and has built the foundation of what it believes to be a top prospect project and a little different from the avarage tech company, with this being said MemeFlate has accomplished at lot with little resources and fundin. Funding has mainly been provided by the project owner and will continue to be untill a break through is made.
 
-MemeFlate as applied for around 3 grants to date 
+MemeFlate has applied for around 3 grants to date: 
 
 Gatechain
-PancakeSwap MVP
+PancakeSwap MVB
 First Round
 
 ## All relevent project links
